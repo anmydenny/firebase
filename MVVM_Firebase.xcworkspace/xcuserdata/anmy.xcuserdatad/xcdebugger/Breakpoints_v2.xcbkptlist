@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C5944B6B-AEAF-4941-A8E7-AD8F14B8AF40"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27C88302-3501-4DC9-B2AF-44A763AFB01F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_Firebase/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "startAuth(phone:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27C88302-3501-4DC9-B2AF-44A763AFB01F - 82f52e32189a1a12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVM_Firebase.AuthManager.startAuth(phone: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVM_Firebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anmy/Desktop/MVVM_Firebase/MVVM_Firebase/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "27C88302-3501-4DC9-B2AF-44A763AFB01F - 82f52e32189a1a12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVM_Firebase.AuthManager.startAuth(phone: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVM_Firebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anmy/Desktop/MVVM_Firebase/MVVM_Firebase/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC72BC6F-1C9E-498F-AA76-2BD6985599F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_Firebase/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "startAuth(phone:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE075F43-EBBC-4BD5-9629-0F792F6CD1BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_Firebase/ViewControllers/OtpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "verifyBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE075F43-EBBC-4BD5-9629-0F792F6CD1BC - ffadc40f65f0c96b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in MVVM_Firebase.OtpVC.verifyBtn(Any) -&gt; ()"
+                  moduleName = "MVVM_Firebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anmy/Desktop/untitled%20folder%202/firebase/MVVM_Firebase/ViewControllers/OtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "AE075F43-EBBC-4BD5-9629-0F792F6CD1BC - ffadc40f65f0c96b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in MVVM_Firebase.OtpVC.verifyBtn(Any) -&gt; ()"
+                  moduleName = "MVVM_Firebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anmy/Desktop/untitled%20folder%202/firebase/MVVM_Firebase/ViewControllers/OtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "106">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

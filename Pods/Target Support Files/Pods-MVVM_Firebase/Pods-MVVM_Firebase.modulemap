@@ -1,0 +1,6 @@
+framework module Pods_MVVM_Firebase {
+  umbrella header "Pods-MVVM_Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
